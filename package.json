@@ -18,11 +18,7 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "datetimepicker": "^0.1.39",
-    "flatpickr": "^4.6.13",
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6",
-    "react-datetime-picker": "^5.2.0"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
