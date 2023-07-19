@@ -22,7 +22,8 @@
     "flatpickr": "^4.6.13",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
-    "react-datetime-picker": "^5.2.0"
+    "react-datetime-picker": "^5.2.0",
+    "slim-select": "^2.6.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
